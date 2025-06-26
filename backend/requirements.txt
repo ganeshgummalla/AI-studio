@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+diffusers
+transformers
+torch
+onnxruntime
+opencv-python
+face-recognition
+real-esrgan
+deepface
+moviepy
+numpy
